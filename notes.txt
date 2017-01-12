@@ -1,0 +1,3 @@
+-Figure out livereload issue
+	-You installed liveReload Chrome plugin for now
+	-Weird issue, css changes stop the page from reloading.  If you change something in app.js, reload starts working again.
