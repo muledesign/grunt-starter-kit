@@ -1,4 +1,4 @@
-# grunt-starter-kit
+# Grunt Starter Kit
 Simple starter kit to get coding quickly!
 
 ## How to get started
