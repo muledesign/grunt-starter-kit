@@ -3,16 +3,24 @@ Simple starter kit to get coding quickly!
 
 ## How to get started
 
-Open up terminal, change to the directory you want this in, and clone away.
+Open up Terminal, change to the directory you want this in, and clone away.
 
-Once it's cloned, type in:  npm install
+Once it's cloned, and since this is only a starter kit, move the files to another directory where your actual project will live.  
 
-Then type in:  grunt watch
+Make sure you have [Node](https://nodejs.org) installed!
 
-Grunt should be watching your project now.
+Switch over in Terminal to your new project directory and type in:  npm install
 
-You can uncomment the function in js/app.js and save to see a "Hello!" message appear in index.html.  
+Node will download some stuff.
 
-You can also add a background color to the body in css/main.scss and save to make sure CSS is all good.  
+When it's done, type in:  grunt watch
+
+Grunt should be watching your project for changes now.  To test, do the following:
+
+Uncomment the function in js/app.js and save.  
+
+Add a background color to the body in css/main.scss and save. 
+
+If you see index.html with your new background color and "Hello!" in the body, you're good to go.
 
 
